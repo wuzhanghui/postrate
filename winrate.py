@@ -154,12 +154,12 @@ if __name__ == '__main__':
         zipfile = './zip/'+str(time.time())
         shutil.make_archive(zipfile, 'zip', "./data/")
         if os.path.exists(zipfile+'.zip'):
-            try:
+#             try:
                 setwenjian(zipfile+'.zip')
                 #os.remove(zipfile+'.zip')
-            except:
-                print("error")
-                continue
+#             except:
+#                 print("error")
+#                 continue
         #os.system("pause")
         shutil.rmtree("./rate/")
         shutil.rmtree("./data/")
