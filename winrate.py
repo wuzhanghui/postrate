@@ -158,6 +158,7 @@ if __name__ == '__main__':
                 setwenjian(zipfile+'.zip')
                 #os.remove(zipfile+'.zip')
             except:
+                print("error")
                 continue
         #os.system("pause")
         shutil.rmtree("./rate/")
