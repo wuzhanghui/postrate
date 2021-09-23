@@ -16,15 +16,16 @@ import os
 
 import time
 
-USE_IPV6 = True
-
 def allowed_gai_family():
+    """
+     https://github.com/shazow/urllib3/blob/master/urllib3/util/connection.py
+    """
     family = socket.AF_INET
-    if USE_IPV6:
-        family = socket.AF_INET6
+    if urllib3_cn.HAS_IPV6:
+        family = socket.AF_INET6 # force ipv6 only if it is available
     return family
 
-urllib3.util.connection.allowed_gai_family = allowed_gai_family
+
 
 
 
@@ -84,6 +85,7 @@ if __name__ == '__main__':
 
 
     while 1:
+        urllib3_cn.allowed_gai_family = allowed_gai_family
         #print(os.path.getmtime('/content/gdrive/MyDrive/data/'))
         #print(os.path.getctime('/content/gdrive/MyDrive/data/'))
         # if os.path.exists("./rate/"):
