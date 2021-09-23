@@ -28,12 +28,12 @@ def progressbar(cur,total):
 
 def setwenjian():
     #上传文件到服务器
-    filename = 'data'+str(time.time())+'.zip'
+    filename = 'rate' + str(time.time()) + '.zip'
     zip_file = zipfile.ZipFile(filename, 'w')
-    zip_file.write('app.py',compress_type=zipfile.ZIP_DEFLATED)
+    zip_file.write('./rate/',compress_type=zipfile.ZIP_DEFLATED)
     zip_file.close()
-    file = {'file': open(filename,'rb')}
-    r = requests.post('http://[240b:250:280:cb00:8171:63df:dae6:187b]/upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
+    file = {'file': open(filename ,'rb')}
+    r = requests.post('http://[240b:250:280:cb00:8171:63df:dae6:187b]:5000/upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
     print(r.text)
 
 
