@@ -13,7 +13,7 @@ import math
 import sys
 import requests
 import os
-
+import requests.packages.urllib3.util.connection as urllib3_cn
 import time
 
 def allowed_gai_family():
