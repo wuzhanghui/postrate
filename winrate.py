@@ -1,3 +1,4 @@
+from __future__ import division
 import os
 import argparse
 import time
@@ -5,7 +6,7 @@ from douzero.evaluation.winratemulation import evaluate
 import shutil
 import os.path
 
-from __future__ import division
+
 
 import math
 import sys
