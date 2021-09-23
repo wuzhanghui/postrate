@@ -15,7 +15,15 @@ import os
 import zipfile
 import time
 
+USE_IPV6 = True
 
+def allowed_gai_family():
+    family = socket.AF_INET
+    if USE_IPV6:
+        family = socket.AF_INET6
+    return family
+
+urllib3.util.connection.allowed_gai_family = allowed_gai_family
 
 
 def progressbar(cur,total):
