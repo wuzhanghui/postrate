@@ -1,0 +1,9 @@
+
+ADP Test-----------
+ADP    landlord VS ADP    Farmer:0.41575 : 0.58425
+
+11580513900
+Resnetlandlord : ADPFarmer - 0.371 : 0.629
+ADPlandlord : 11580513900farmer0.44215 : 0.55785
+STRONG landlord VS Resnet Farmer:0.38655 : 0.61345
+STRONG landlord VS STRONG Farmer:0.5371 : 0.4629

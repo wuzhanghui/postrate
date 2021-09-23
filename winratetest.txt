@@ -1,0 +1,533 @@
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4121 : 0.5879
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4065 : 0.5935
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.1 : 0.9
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.1 : 0.9
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.415 : 0.585
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3995 : 0.6005
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.7 : 0.3
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.8 : 0.2
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.9 : 0.1
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.8 : 0.2
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.7 : 0.3
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.1 : 0.9
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.45 : 0.55
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.397 : 0.603
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.413 : 0.587
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-1.0 : 0.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.393 : 0.607
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.425 : 0.575
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.398 : 0.602
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.389 : 0.611
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.39 : 0.61
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.404 : 0.596
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.396 : 0.604
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.418 : 0.582
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.1 : 0.9
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.8 : 0.2
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.3 : 0.7
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.6 : 0.4
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.0 : 1.0
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.4 : 0.6
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.2 : 0.8
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.5 : 0.5
+
+baselines/douzero_ADP/landlord_8_12.ckpt:baselines/resnet/resnet_landlord_up.ckpt-0.7 : 0.3
