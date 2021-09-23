@@ -1,18 +1,19 @@
 from __future__ import division
 import os
 import argparse
+import socket
 import time
+
+import urllib3
 from douzero.evaluation.winratemulation import evaluate
 import shutil
 import os.path
-
-
 
 import math
 import sys
 import requests
 import os
-import zipfile
+
 import time
 
 USE_IPV6 = True
@@ -26,6 +27,7 @@ def allowed_gai_family():
 urllib3.util.connection.allowed_gai_family = allowed_gai_family
 
 
+
 def progressbar(cur,total):
     percent = '{:.2%}'.format(cur / total)
     sys.stdout.write('\r')
@@ -34,14 +36,14 @@ def progressbar(cur,total):
     if cur == total:
         sys.stdout.write('\n')
 
-def setwenjian():
+def setwenjian(filename):
     #上传文件到服务器
-    filename = 'rate' + str(time.time()) + '.zip'
-    zip_file = zipfile.ZipFile(filename, 'w')
-    zip_file.write('./rate/',compress_type=zipfile.ZIP_DEFLATED)
-    zip_file.close()
-    file = {'file': open(filename ,'rb')}
-    r = requests.post('http://[240b:250:280:cb00:547b:7659:6054:7707]:9006/upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
+    # filename = 'rate' + str(time.time()) + '.zip'
+    # zip_file = zipfile.ZipFile(filename, 'w')
+    # zip_file.write('./rate/', compress_type=zipfile.ZIP_DEFLATED)
+    # zip_file.close()
+    file = {'file': open(filename, 'rb')}
+    r = requests.post('http://[240b:250:280:cb00:547b:7659:6054:7707]:9006//upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
     print(r.text)
 
 
@@ -109,6 +111,21 @@ if __name__ == '__main__':
         #         os.mkdir('/content/gdrive/MyDrive/data/地主赢时叫牌胜率/')
         #         os.mkdir('/content/gdrive/MyDrive/data/地主赢时局前预估/')
         #         os.mkdir('/content/gdrive/MyDrive/data/地主赢时三家/')
+        if os.path.exists("./rate/"):
+            shutil.rmtree("./rate/")
+        if not os.path.exists("./zip/"):
+            os.mkdir("./zip/")
+        if not os.path.exists("./data/"):
+            os.mkdir("./data/")
+            os.mkdir('./data/地上赢时局前预估/')
+            os.mkdir('./data/地下赢时局前预估/')
+            os.mkdir('./data/地主输时叫牌胜率/')
+            os.mkdir('./data/地主输时局前预估/')
+            os.mkdir('./data/地主输时三家/')
+            os.mkdir('./data/地主赢时叫牌胜率/')
+            os.mkdir('./data/地主赢时局前预估/')
+            os.mkdir('./data/地主赢时三家/')
+
 
 
         os.system("python generate_eval_data.py")
@@ -129,10 +146,19 @@ if __name__ == '__main__':
 
 #         if not os.path.exists("./content/gdrive/data/"):
 #             os.mkdir("./content/gdrive/data/")
-#         files = os.listdir("./rate/")
-#         for file in files:
-#             print(file)
-#             shutil.copy("./rate/" + file, '/content/gdrive/MyDrive/data/'+ file[:-4]+'/' + file[:-4] + str(time.time()) + '.csv')
+        files = os.listdir("./rate/")
+        for file in files:
+            print(file)
+            shutil.copy("./rate/" + file, './data/'+ file[:-4]+'/' + file[:-4] + str(time.time()) + '.csv')
         #os.system("python post.py")
-        setwenjian()
+        zipfile = './zip/'+str(time.time())
+        shutil.make_archive(zipfile, 'zip', "./data/")
+        if os.path.exists(zipfile+'.zip'):
+            try:
+                setwenjian(zipfile+'.zip')
+                #os.remove(zipfile+'.zip')
+            except:
+                continue
+        #os.system("pause")
         shutil.rmtree("./rate/")
+        shutil.rmtree("./data/")
