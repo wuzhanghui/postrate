@@ -259,20 +259,20 @@ def mp_simulate(card_play_data_list, card_play_model_path_dict, q, output, bid_o
 #             csvFile.close()
              sc = []
             
-            sc.append(BidModel.predict(cc))
-            sc.append(LandlordModel.predict(ll))
+             sc.append(BidModel.predict(cc))
+             sc.append(LandlordModel.predict(ll))
 
-            sc.append(BidModel.predict(u))
-            sc.append(FarmerModel.predict(u, three, 'up'))
-            sc.append(BidModel.predict(d))
-            sc.append(FarmerModel.predict(d, three, 'down'))
-            csvthree = open("./rate/地下赢时三家.csv", "a", newline='')
+             sc.append(BidModel.predict(u))
+             sc.append(FarmerModel.predict(u, three, 'up'))
+             sc.append(BidModel.predict(d))
+             sc.append(FarmerModel.predict(d, three, 'down'))
+             csvthree = open("./rate/地下赢时三家.csv", "a", newline='')
             # 新建对象writer
-            writer = csv.writer(csvthree)
+             writer = csv.writer(csvthree)
             # 写入，参数还是列表形式
             #print(sc)
-            writer.writerow(sc)
-            csvthree.close()
+             writer.writerow(sc)
+             csvthree.close()
             #os.system("pause")
         env.reset()
 
