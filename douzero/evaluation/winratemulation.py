@@ -219,14 +219,15 @@ def mp_simulate(card_play_data_list, card_play_model_path_dict, q, output, bid_o
 
 
         if env.winfarmer()==1:
-#             win_rateu = FarmerModel.predict(u, three, 'up') - 5
-#             #print(u)
-#             csvdata = [win_rateu]
-#             csvFile = open("./rate/地上赢时局前预估.csv", "a", newline='')
-#             # 新建对象writer
-#             writer = csv.writer(csvFile)
-#             # 写入，参数还是列表形式
-#             writer.writerow(csvdata)
+             win_rateu = FarmerModel.predict(u, three, 'up') - 5
+            #print(u)
+             csvdata = [win_rateu]
+             csvFile = open("./rate/地上赢时局前预估.csv", "a", newline='')
+            # 新建对象writer
+             writer = csv.writer(csvFile)
+            # 写入，参数还是列表形式
+             writer.writerow(csvdata)
+             csvFile.close()
             
              sc = []
              sc.append(BidModel.predict(cc))
@@ -248,15 +249,15 @@ def mp_simulate(card_play_data_list, card_play_model_path_dict, q, output, bid_o
             
 
         elif env.winfarmer()==2:
-#             win_rateu = FarmerModel.predict(d, three, 'down') - 5
-#             # print(u)
-#             csvdata = [win_rateu]
-#             csvFile = open("./rate/地下赢时局前预估.csv", "a", newline='')
-#             # 新建对象writer
-#             writer = csv.writer(csvFile)
-#             # 写入，参数还是列表形式
-#             writer.writerow(csvdata)
-#             csvFile.close()
+             win_rateu = FarmerModel.predict(d, three, 'down') - 5
+            # print(u)
+             csvdata = [win_rateu]
+             csvFile = open("./rate/地下赢时局前预估.csv", "a", newline='')
+            # 新建对象writer
+             writer = csv.writer(csvFile)
+            # 写入，参数还是列表形式
+             writer.writerow(csvdata)
+             csvFile.close()
              sc = []
             
              sc.append(BidModel.predict(cc))
