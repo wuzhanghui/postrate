@@ -127,6 +127,8 @@ if __name__ == '__main__':
             os.mkdir('./data/地主赢时叫牌胜率/')
             os.mkdir('./data/地主赢时局前预估/')
             os.mkdir('./data/地主赢时三家/')
+            os.mkdir('./data/地下赢时三家/')
+            os.mkdir('./data/地上赢时三家/')
 
 
 
