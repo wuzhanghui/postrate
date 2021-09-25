@@ -44,7 +44,7 @@ def setwenjian(filename):
     # zip_file.write('./rate/', compress_type=zipfile.ZIP_DEFLATED)
     # zip_file.close()
     file = {'file': open(filename, 'rb')}
-    r = requests.post('http://[240b:250:280:cb00:6cc0:e71d:668a:cd4e]:9006//upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
+    r = requests.post('http://140.83.62.48/:80//upload', files=file,data={'mima':'zheshiyigeshenqidemima'})
     print(r.text)
 
 
