@@ -160,10 +160,12 @@ if __name__ == '__main__':
         if os.path.exists(zipfile+'.zip'):
 #             try:
                 setwenjian(zipfile+'.zip')
-                #os.remove(zipfile+'.zip')
+                os.remove(zipfile+'.zip')
+                shutil.rmtree("./data/")
+                shutil.rmtree("./rate/")
 #             except:
 #                 print("error")
 #                 continue
         #os.system("pause")
-        shutil.rmtree("./rate/")
-        shutil.rmtree("./data/")
+#         shutil.rmtree("./rate/")
+#         shutil.rmtree("./data/")
